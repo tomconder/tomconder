@@ -1,1 +1,1 @@
-Currently experimenting with raspberry pis while status distancing.
+☕️ Currently experimenting with raspberry pis while status distancing.
