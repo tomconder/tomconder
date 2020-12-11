@@ -15,7 +15,6 @@ $ what-tom-is-it
                  Full Stack Developer • Game Designer • Mentor
 
 ❯ 🌎 Website           itstom.co
-❯ 📬 Email             jake@jarv.is
 ❯ 🐦 Twitter           @tomconder
 ❯ 👔 Résumé            linkedin.com/in/tomconder
 ```
