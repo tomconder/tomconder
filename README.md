@@ -1,6 +1,6 @@
-![eyeeyeeye](https://user-images.githubusercontent.com/392266/222018547-669d162f-2520-4daa-84b2-2d756d1686e6.png)
-
+![00799-2156757586](https://user-images.githubusercontent.com/392266/235381190-70d72188-0ef6-44b4-afbd-018c1b26e710.png)
 ```
+
 • Full Stack Developer 
 • Game Designer 
 • Mentor
