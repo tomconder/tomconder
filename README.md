@@ -1,5 +1,6 @@
-![tom-00](https://user-images.githubusercontent.com/392266/235383037-430cf0bc-7bed-4f9d-8f78-453576af271d.png)
+![tom-01](https://user-images.githubusercontent.com/392266/235383100-2b7d5f29-80d7-4047-ae6f-f9b66833f093.png)
 ```
+
 • Full Stack Developer 
 • Game Designer 
 • Mentor
