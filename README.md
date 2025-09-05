@@ -1,6 +1,6 @@
 
 ```
-❯ 🌎 Website           itstom.co
+❯ 🌎 Website           linktr.ee/tomconder
 ❯ 🐦 Twitter           @tomconder
 ❯ 👔 Résumé            linkedin.com/in/tomconder
 ```
