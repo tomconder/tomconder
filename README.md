@@ -1,6 +1,6 @@
->🌱 I am currently **open to work**. Interested? Message me on [LinkedIn](https://linkedin.com/in/tomconder)
-
 I am a passionate technologist with 30+ years of experience architecting, developing, and maintaining enterprise-level applications. My expertise spans full-stack development (JavaScript, Python, Java), web technologies, AI implementation, and performance optimization in cloud environments. I deliver complex software solutions that enhance efficiency and reduce costs, and I thrive on creativity, leadership, and mentoring others. I strive for excellence and have fun doing it!
+
+>🌱 I am currently **open to work**. Interested? Message me on [LinkedIn](https://linkedin.com/in/tomconder)
 
 **Key Strengths**
 
