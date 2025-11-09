@@ -3,7 +3,7 @@ Hi, I'm Tom, a technologist with 30+ years of experience architecting, developin
 > [!TIP]
 > **I am currently open to work**. My expertise spans full-stack development, web technologies, AI implementation, and performance optimization in cloud environments.
 >
-> <a href="https://linkedin.com/in/tomconder"><img alt="Message me on LinkedIn" src="https://img.shields.io/badge/Message%20Me%20on%20LinkedIn-success.svg?style=for-the-badge"/></a>
+> <a href="https://linkedin.com/in/tomconder"><img alt="Contact me on LinkedIn" src="https://img.shields.io/badge/Contact%20Me%20on%20LinkedIn-success.svg?style=for-the-badge"/></a>
 >
 > <details>
 > <summary><strong>Key Strengths</strong></summary>
