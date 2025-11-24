@@ -10,11 +10,11 @@ Hi, I'm Tom, a technologist with 30+ years of experience architecting, developin
 >
 > ### 💪 Key Strengths
 >
-> *   ✅ Team leadership & mentoring
-> *   ✅ Full-stack system architecture & development
-> *   ✅ Performance, reliability and cost optimization
-> *   ✅ Cloud platforms & DevOps
-> *   ✅ AI implementation & automation
+> * ✅ Team leadership & mentoring
+> * ✅ Full-stack system architecture & development
+> * ✅ Performance, reliability and cost optimization
+> * ✅ Cloud platforms & DevOps
+> * ✅ AI implementation & automation
 >
 > </details>
 

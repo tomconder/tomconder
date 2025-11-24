@@ -31,4 +31,3 @@ repos:
             args: ['--output', '--frail']
             files: "\\.md$"
             exclude: .vscode|assets/models|sponge/deps
-            additional_dependencies: ['remark-cli@10.0.1', 'remark-preset-lint-recommended@7.0.1', 'remark-preset-lint-consistent@6.0.1']
